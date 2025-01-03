@@ -1,0 +1,26 @@
+[Box: ::com.company - ::<<Unknown>>::ActionListener]
+X=238
+Y=1270
+
+[Box: ::com.company - ::<<Unknown>>::Frame]
+X=132
+Y=40
+
+[Box: ::com.company - ::<<Unknown>>::WindowListener]
+X=20
+Y=1270
+
+[Box: ::com.company - ::com.company::Main]
+X=133
+Y=343
+
+[Box: ::com.company - ::com.company::Suggestion]
+X=337
+Y=40
+
+[Diagram: ::com.company]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
